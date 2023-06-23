@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 Password is set of 'python2023'.
 
@@ -6,7 +6,7 @@ Write a program that determines whether or not you can log in when you enter the
 
 Print "You have successfully logged in" only if password matches.
 
-*Example
+## Example
 
 1)
 input

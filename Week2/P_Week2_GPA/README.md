@@ -1,8 +1,8 @@
-*Exercise
+## Exercise
 
 Please write a program that outputs it in the following format when inputs name, age and gpa. Please output the grade up to the second decimal point. (Please pay attention to spacing, punctuation marks, and line breaks.)
 
-*Example
+## Example
 
 input
 <pre>

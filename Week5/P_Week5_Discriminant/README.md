@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 I want to find the number of real roots of a quadratic equation using the discriminant.
 
@@ -14,7 +14,7 @@ The number of real roots of a quadratic equation depends on the value of the dis
 
 Write a program that takes the coefficients a, b, and c of a quadratic equation as input and outputs the number of real roots. **(Note that a, b, and c are real numbers and a is not 0.)**
 
-*Example
+## Example
 
 input
 <pre>

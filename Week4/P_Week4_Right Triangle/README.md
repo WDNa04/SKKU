@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 Three positive integers A, B, and C are given as input.
 
@@ -6,7 +6,7 @@ Three positive integers A, B, and C are given as input.
 
 Write a code that prints 'O' if a triangle with sides A, B, C is a right triangle, and 'X' otherwise.
 
-*Example
+## Example
 
 input
 <pre>

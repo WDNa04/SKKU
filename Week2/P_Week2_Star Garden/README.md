@@ -1,8 +1,8 @@
-*Exercise
+## Exercise
 
 Take the '*' character and print it like below.
 
-*Example
+## Example
 
 output
 <pre>

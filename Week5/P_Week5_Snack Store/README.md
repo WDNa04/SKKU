@@ -1,4 +1,4 @@
-### Exercise
+## Exercise
 
 A snack store sells a limited quantity of snacks, and each snack type has a specific stock and price, as shown below.
 
@@ -14,7 +14,7 @@ Write a code that outputs the price the customer needs to pay if <ins> the snack
 
 For example, if a customer wants to buy 2 units of snack B, the code should output "5000". But if a customer wants to buy 15 units of snack C, the code should ouput "Sorry". 
 
-### Example
+## Example
 
 input
 <pre>

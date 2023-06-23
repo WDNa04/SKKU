@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 SKKU Academy assigns classes of new students through scores of Math and English level tests. If they are assigning classes based on the following criteria, write a program that outputs the assigned class after receiving new student's scores of Math and English level test. 
 
@@ -11,7 +11,7 @@ SKKU Academy assigns classes of new students through scores of Math and English 
 | Class C | only English >= 70 |
 | Class D | Math and English < 70 |
 
-*Example
+## Example
 
 input
 <pre>

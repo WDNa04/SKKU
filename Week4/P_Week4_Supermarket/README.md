@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 Tom is planning to buy things at a supermarket that is running a discount event. 
 
@@ -16,7 +16,7 @@ The items sold in the supermarket are as follows.
 
 Write a program that receives the number of items Tom will purchase at the supermarket and outputs the amount of money he needs to spend. 
 
-*Example
+## Example
 
 input
 <pre>

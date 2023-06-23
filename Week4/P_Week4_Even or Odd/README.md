@@ -1,8 +1,8 @@
-*Exercise
+## Exercise
 
 Write a code that takes an integer as input and outputs whether it is **even** or **odd** <ins> if it is positive</ins>, and outputs **the input value** as it is <ins> if it is 0 or negative</ins>.
 
-*Example
+## Example
 
 1)
 input

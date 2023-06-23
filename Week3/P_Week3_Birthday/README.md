@@ -1,4 +1,4 @@
-*Exercise
+## Exercise
 
 Enter the birthday to 6 digits and write a code that calculates the following.
 
@@ -9,7 +9,7 @@ Enter the birthday to 6 digits and write a code that calculates the following.
 
 Please note to print all the results of all operations to <ins> 3 decimal points</ins>.
 
-*Example
+## Example
 
 input
 <pre>

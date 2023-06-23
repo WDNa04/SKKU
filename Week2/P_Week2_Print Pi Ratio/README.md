@@ -1,8 +1,8 @@
-*Exercise
+## Exercise
 
 The variable pi is the circumference. Write a program that takes the real number n and outpus the sum of pi and n to the fourth decimal place. 
 
-*Example
+## Example
 
 input
 <pre>
