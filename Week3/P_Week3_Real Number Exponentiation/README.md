@@ -2,7 +2,7 @@
 
 Python supports exponentiation with real numbers, not just integers, using the ** operator.
 
-Write a program that takes two real numbers A and B as input, and prints A^B. 
+Write a program that takes two real numbers A and B as input, and prints $A^B$. 
 
 Please note that your program should output the result <ins> up to 6 decimal places</ins> regardless of whether the result is an integer or not. (Refer to Example)
 
