@@ -9,11 +9,19 @@ Print "You have successfully logged in" only if password matches.
 *Example
 
 1)
+input
 <pre>
 Please enter the password: python2023
+</pre>
+output
+<pre>
 You have successfully logged in
 </pre>
 2)
+input
 <pre>
 Please enter the password: java2023
+</pre>
+output
+<pre>
 </pre>

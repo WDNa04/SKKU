@@ -9,14 +9,22 @@ Please note that your program should output the result <ins> up to 6 decimal pla
 *Example
 
 1)
+input
 <pre>
 A: 1.23
 B: 3.45
+</pre>
+output
+<pre>
 2.042550
 </pre>
 2)
+input
 <pre>
 A: 3
 B: 3
+</pre>
+output
+<pre>
 27.000000
 </pre>

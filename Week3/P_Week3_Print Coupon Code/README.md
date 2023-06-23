@@ -7,7 +7,12 @@ Note that the program should not consider cases where the coupon code contains t
 Example) if the user inputs 1188844, print out 11-888-44 as a result.
 
 *Example
+
+input
 <pre>
 COUPON CODE: 1188844
+</pre>
+output
+<pre>
 11-888-44
 </pre>
