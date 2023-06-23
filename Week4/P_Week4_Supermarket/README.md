@@ -4,7 +4,7 @@ Tom is planning to buy things at a supermarket that is running a discount event.
 
 There is a discount event at the supermarket.
 
-If the price of the items to be purchased is **over or equal to 10,000 won**,they will give you a **10%** discount.
+If the price of the items to be purchased is **over or equal to 10,000 won**, they will give you a **10%** discount.
 
 The items sold in the supermarket are as follows.
 
